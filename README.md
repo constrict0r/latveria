@@ -13,7 +13,7 @@ user home directory layout.
 
 ## License
 
-MIT. See the [LICENSE](https://gitlab.com/constrict0r/home/raw/master/LICENSE) file for more details.
+MIT. See the [LICENSE](https://gitlab.com/constrict0r/latveria/raw/master/LICENSE) file for more details.
 
 ## Layout
 
