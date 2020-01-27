@@ -43,3 +43,10 @@ user_tasks:
  # Configure monitors.
  - item_path: https://is.gd/pk2JhI
    item_expand: false
+
+# To generate a preseeded ISO:
+# ansible localhost -m include_role -a name=constrict0r.iso -K -e \
+#     'username=constrict0r userpass=1234 rootpass=1234 device=sdb preseed=true \
+#     preseed_wireless=true preseed_partitioning=true preseed_last_question=true \
+#     preseed_custom=/home/constrict0r/repos/madvillain/defaults/main.yml networkname="MY NETWORK" \
+#     networkpass="my-network-pass" hostname="latveria" domain="amanita"'
