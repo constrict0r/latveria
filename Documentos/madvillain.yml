@@ -1,0 +1,45 @@
+---
+packages:
+ # Madvillain packages.
+ - https://is.gd/qbfMk8
+ - fritzing
+ - fritzing-data
+ - fritzing-parts
+ - telegram-desktop
+ - wesnoth
+ 
+packages_pip:
+ # Madvillain pip packages.
+ - https://is.gd/qbfMk8
+ - black
+
+users:
+ - constrict0r
+ - doom
+
+group:
+ # Madvillain groups.
+ - https://is.gd/qbfMk8
+
+user_skeleton:
+ - item_path: https://gitlab.com/constrict0r/home
+   item_expand: false
+ - item_path: https://gitlab.com/constrict0r/latveria
+   item_expand: false
+
+user_tasks:
+ # Configure python.
+ - item_path: https://is.gd/qbfMk8
+   item_expand: true
+ # Configure bash alias.
+ - item_path: https://is.gd/1GyRXy
+   item_expand: false
+ # Configure Gnome dock.
+ - item_path: https://is.gd/OYw8Aq
+   item_expand: false
+ # Configure git.
+ - item_path: https://is.gd/OjTj8r
+   item_expand: false
+ # Configure monitors.
+ - item_path: https://is.gd/pk2JhI
+   item_expand: false
