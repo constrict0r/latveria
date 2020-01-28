@@ -2,16 +2,13 @@
 packages:
  # Madvillain packages.
  - https://is.gd/qbfMk8
- - fritzing
- - fritzing-data
- - fritzing-parts
+ - plantuml
  - telegram-desktop
  - wesnoth
  
 packages_pip:
  # Madvillain pip packages.
  - https://is.gd/qbfMk8
- - black
 
 users:
  - constrict0r
