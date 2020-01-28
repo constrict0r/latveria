@@ -5,7 +5,10 @@
 
 # @description Apply resting configuration on Debian-like systems.
 #
-# @arg $@ string Bash arguments.
+# This is configuration that could not be applied (due to cosmic limitations)
+# during the unattended Debian installation (using a preseeded iso).
+#
+# @arg No arguments.
 #
 # @exitcode 0 If successful.
 # @exitcode 1 On failure.
@@ -23,13 +26,13 @@ function configure_resting() {
 
 # @description Apply resting configuration on Debian-like systems.
 #
-# @arg $@ string Bash arguments.
+# @arg No arguments.
 #
 # @exitcode 0 If successful.
 # @exitcode 1 On failure.
 function main() {
 
-    configure_resting "$@"
+    configure_resting
  
     return 0
 }
