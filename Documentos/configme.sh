@@ -20,6 +20,8 @@ function configure_resting() {
     sudo addgroup libvirtd
     sudo adduser $(whoami) libvirtd
 
+    python3 -m pip install black
+
     return 0
 
 }
