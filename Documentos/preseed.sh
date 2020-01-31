@@ -12,7 +12,7 @@ ansible localhost -m include_role -a name=constrict0r.iso -K -e \
     preseed_custom=/home/constrict0r/Documentos/madvillain.yml networkname="MY NETWORK" \
     networkpass="my-network-pass" hostname="latveria" domain="amanita"'
 
-# Then put the ISO file on your4 USB drive: sdx = sdb, sdc, etc.
-su -c 'dd if=/path/to/remaster.iso of=/dev/sdx'
+echo 'Run the next command on a terminal, replace sdx with your USB drive: sdb, sdc, etc:'
+echo "    su -c 'dd if=/path/to/remaster.iso of=/dev/sdx'"
 
 exit 0
