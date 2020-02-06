@@ -1,0 +1,23 @@
+[playlist]
+X-GNOME-Title=Doombeats
+NumberOfEntries=10
+File1=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/E.%20Bros/E.%20Bros/01%20-%20Funky%20Piano.mp3
+Title1=Funky Piano
+File2=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/Funkdoobiest/Brothas%20Doobie/04%20-%20Lost%20In%20Thought%20s.mp3
+Title2=Lost in Thoughts
+File3=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/Son%20A%20Bluntz/Nodyaheadtodis%20Vol.%201/02%20-%20Don't%20Snooze.mp3
+Title3=Don't Snooze
+File4=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/Artifacts/Between%20a%20Rock%20and%20a%20Hard%20Place/02%20-%20C'mon%20Wit%20Da%20Git%20Down.mp3
+Title4=C'Mon Wit Da Git Down
+File5=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/Geto%20Boys/Till%20Death%20Do%20Us%20Part/01%20-%20Mind%20Playing%20Tricks%20On%20Me.mp3
+Title5=My Mind Playing Tricks On Me
+File6=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/Capital%20STEEZ/AmeriKKKan%20Korruption/08%20-%2047%20Elements.mp3
+Title6=47 Elements
+File7=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/Pro%20Era/Peep%20The%20Aprocalypse/03%20-%20Wrecord%20Out.mp3
+Title7=Wrecord Out
+File8=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/De%20la%20Soul/Stakes%20Is%20High/01%20-%20Stakes%20Is%20High.mp3
+Title8=Stakes is High
+File9=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/MF%20Doom/Born%20Like%20This/05%20-%20Absolutely%20(Prod.%20By%20Madlib).mp3
+Title9=Absolutely (Prod. By Madlib)
+File10=file:///home/constrict0r/M%C3%BAsica/Hip-Hop/Samiyan/Animals%20Have%20Feelings/16%20-%20Mirror.mp3
+Title10=Mirror

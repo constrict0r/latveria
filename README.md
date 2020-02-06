@@ -50,77 +50,7 @@ home/
 ├── LICENSE
 ├── little-lab
 ├── Música
-│   └── Hip-Hop
-│       ├── A Tribe Called Quest
-│       │   └── Midnight Marauders
-│       │       └── cover.jpg
-│       ├── Aesop Rock
-│       │   ├── Float
-│       │   │   └── cover.jpg
-│       │   └── None Shall Pass
-│       │       └── cover.jpg
-│       ├── Czarface
-│       │   ├── Czarface
-│       │   │   └── cover.jpg
-│       │   ├── Czarface meets Ghostface
-│       │   │   └── cover.jpg
-│       │   ├── Czarface Meets Metal Face
-│       │   │   └── cover.jpg
-│       │   └── Every Hero Needs A Villain
-│       │       └── cover.jpg
-│       ├── Deltron 3030
-│       │   ├── Deltron 3030
-│       │   │   └── cover.jpg
-│       │   └── Event 2
-│       │       └── cover.jpg
-│       ├── Gramatik
-│       │   └── SB3
-│       │       └── cover.jpg
-│       ├── GZA
-│       │   └── Liquid Swords
-│       │       └── cover.jpg
-│       ├── Instrumentals
-│       │   ├── Aesop Rock
-│       │   │   └── None Shall Pass
-│       │   │       └── cover.jpg
-│       │   ├── Jeru the Damaja
-│       │   │   └── You Can't Stop The Prophet
-│       │   │       └── cover.jpg
-│       │   └── Viktor Vaughn
-│       │       └── Vaudeville Villain
-│       │           └── cover.jpg
-│       ├── Jeru the Damaja
-│       │   └── You Can't Stop The Prophet
-│       │       └── cover.jpg
-│       ├── JJ Doom
-│       │   └── Key To The Kuffs
-│       │       └── cover.jpg
-│       ├── Joey Bada$$
-│       │   └── 1999
-│       │       └── cover.jpg
-│       ├── MF Doom
-│       │   ├── Born Like This
-│       │   │   └── cover.jpg
-│       │   ├── Doom!
-│       │   │   └── cover.jpg
-│       │   ├── Operation Doomsday
-│       │   │   └── cover.jpg
-│       │   ├── Vaudeville Villain (Gold Edition)
-│       │   │   ├── cover.jpg
-│       │   │   ├── Disc 1
-│       │   │   └── Disc 2
-│       │   └── Venomous Villain
-│       │       └── cover.jpg
-│       ├── Quasimoto
-│       │   ├── Microphone Mathematics
-│       │   │   └── cover.jpg
-│       │   └── The Unseen
-│       │       └── cover.jpg
-│       └── The Herbaliser
-│           ├── Blow Your Headphones
-│           │   └── cover.jpg
-│           └── Take London
-│               └── cover.jpg
+│   └── Doombots.pls
 ├── README.md
 ├── repos
 └── Vídeos
