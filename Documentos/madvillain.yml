@@ -37,6 +37,9 @@ user_tasks:
  # Configure git.
  - item_path: https://is.gd/OjTj8r
    item_expand: false
+ # Configure org-cv - https://titan-c.gitlab.io/org-cv.
+ - item_path: https://is.gd/7UStOe
+   item_expand: false
 
 # On first boot, run the following commands to execute the tasks that we were
 # not able to run during the installation process:
