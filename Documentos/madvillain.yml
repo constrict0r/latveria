@@ -41,9 +41,29 @@ user_tasks:
  - item_path: https://is.gd/pk2JhI
    item_expand: false
 
-# To generate a preseeded ISO (replace with your data):
+# On first boot, run the following command to execute the tasks that we were
+# not able to run during the installation process:
+
+# sudo apt install -y bridge-utils gir1.2-spiceclientgtk-3.0 \
+#     libvirt-daemon-system qemu-utils
+
+# sudo addgroup libvirtd
+# sudo adduser $(whoami) libvirtd
+
+# python3 -m pip install black
+
+
+# To generate a preseeded ISO, run (replace with your data):
 # ansible localhost -m include_role -a name=constrict0r.iso -K -e \
 #     'username=constrict0r userpass=1234 rootpass=1234 device=sda preseed=true \
 #     preseed_wireless=true preseed_partitioning=true preseed_last_question=true \
 #     preseed_custom=/home/constrict0r/Documentos/madvillain.yml networkname="MY NETWORK" \
-#     networkpass="my-network-pass" hostname="latveria" domain="amanita"'
+#     networkpass="my-network-pass" hostname="latveria" domain="amanita" \
+#     firmware_path=/home/constrict0r/Instaladores/firmware'
+
+# Use dd command to copy the image to your USB drive (replace sdx with yours):
+# su -c 'dd if=/path/to/remaster.iso of=/dev/sdx'"
+
+# On modern machines rename remaster.iso to .img to avoid cd-detect errors:
+# mv remaster.iso remaster.img
+# su -c 'dd if=/path/to/remaster.img of=/dev/sdx'"

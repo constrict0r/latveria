@@ -35,7 +35,6 @@ home/
 ├── Documentos
 │   ├── biblioteca
 │   │   └── piscunov-cálculo-diferencial-integral-1.pdf
-│   ├── configme.sh
 │   └── madvillain.yml
 ├── Imágenes
 │   ├── animado
