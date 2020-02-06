@@ -47,7 +47,7 @@ home/
 ├── LICENSE
 ├── little-lab
 ├── Música
-│   └── Doombots.pls
+│   └── Doombeats.pls
 ├── README.md
 ├── repos
 └── Vídeos
