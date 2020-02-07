@@ -31,6 +31,9 @@ To generate your curriculum vitae with
 [Emacs + Latex + Org-CV](https://titan-c.gitlab.io/org-cv) follow the steps
 describe next.
 
+Ensure the file [~/.emacs.d/config/org-cv.el](https://is.gd/skZ4lP) is present
+on your computer.
+
 Install the packages *texlive-latex-base* and *texlive-latex-extra*:
 
 ```
