@@ -2,7 +2,7 @@
 
 ![skeleton](https://gitlab.com/constrict0r/img/raw/master/skeleton.png)
 
-[Skeleton repository](http://www.linfo.org/etc_skel.html) for the madvillain
+[Skeleton repository](http://www.linfo.org/etc_skel.html) for the Madvillain
 user home directory layout.
 
 ![latveria](https://gitlab.com/constrict0r/img/raw/master/latveria/latveria.png)
