@@ -1,0 +1,28 @@
+* SCHEDULE
+
+  |  Hora | Lunes     | Martes    | Miércoles | Jueves    | Viernes   | Sábado    | Domingo   |
+  |-------+-----------+-----------+-----------+-----------+-----------+-----------+-----------|
+  | 04:00 | Ejercicio | Ejercicio | Ejercicio | Ejercicio | Ejercicio | Ejercicio | Ejercicio |
+  | 05:00 | Ejercicio | Ejercicio | Ejercicio | Ejercicio | Ejercicio | Ejercicio | Ejercicio |
+  | 06:00 | Desayuno  | Desayuno  | Desayuno  | Desayuno  | Desayuno  | Desayuno  | Desayuno  |
+  | 07:00 |           |           |           |           |           |           |           |
+  | 08:00 |           |           |           |           |           |           |           |
+  | 09:00 |           |           |           |           |           |           |           |
+  | 10:00 |           |           |           |           |           |           |           |
+  | 11:00 |           |           |           |           |           |           |           |
+  | 12:00 | Almuerzo  | Almuerzo  | Almuerzo  | Almuerzo  | Almuerzo  |           | Almuerzo  |
+  | 13:00 |           |           |           |           |           |           |           |
+  | 14:00 |           |           |           |           |           |           |           |
+  | 15:00 |           |           |           |           |           |           |           |
+  | 16:00 |           |           |           |           |           |           |           |
+  | 17:00 |           |           |           |           |           |           |           |
+  | 18:00 |           |           |           |           |           |           |           |
+  | 19:00 | Cena      | Cena      | Cena      | Cena      |           | Cena      | Cena      |
+  | 20:00 |           |           |           |           |           |           |           |
+  | 21:00 | Dormir    | Dormir    | Dormir    | Dormir    |           | Dormir    | Dormir    |
+  | 22:00 | Dormir    | Dormir    | Dormir    | Dormir    |           | Dormir    | Dormir    |
+  | 23:00 | Dormir    | Dormir    | Dormir    | Dormir    |           | Dormir    | Dormir    |
+  | 24:00 | Dormir    | Dormir    | Dormir    | Dormir    |           | Dormir    | Dormir    |
+  | 01:00 | Dormir    | Dormir    | Dormir    | Dormir    |           | Dormir    | Dormir    |
+  | 02:00 | Dormir    | Dormir    | Dormir    | Dormir    |           | Dormir    | Dormir    |
+  | 03:00 | Dormir    | Dormir    | Dormir    | Dormir    |           | Dormir    | Dormir    |

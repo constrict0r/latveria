@@ -1,0 +1,10 @@
+* Tickler
+
+** Revisión Semanal
+   SCHEDULED: <2020-01-03 vie +1w>
+
+** Limpiar
+   SCHEDULED: <2020-01-07 mar +3d>
+
+** Blog
+   SCHEDULED: <2020-01-04 sáb +1w>
